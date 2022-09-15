@@ -98,55 +98,6 @@
 
 <br>
 
-## 💁 팀원 소개
-
-<img width="949" alt="스크린샷 2022-05-26 오후 4 32 39" src="https://user-images.githubusercontent.com/28584299/170440493-66f1ccf8-a6f0-415e-b8a2-b5a2096997a4.png">
-
-
-**🥅 민대인**
-
-```
-student ID : xxxx1621
-e-mail : bamin0422@kookmin.ac.kr
-```
-
-<br>
-
-**⚽ 노성환**
-
-```
-student ID : xxxx1615
-e-mail : nsh1998@kookmin.ac.kr
-```
-
-<br>
-
-**⚾ 최지희**
-
-```
-student ID : xxxx1701
-e-mail : judyi19997@kookmin.ac.kr
-```
-
-<br>
-
-**🏀 이도원**
-
-```
-student ID : xxxx1636
-e-mail : dowon3036@kookmin.ac.kr
-```
-
-<br>
-
-**🎱 김하연** 
-
-```
-student ID : xxxx1580
-e-mail : hayoun28@kookmin.ac.kr
-```
-<br>
-
 ## 4. 사용법
 ### 실행 환경 구축
 
